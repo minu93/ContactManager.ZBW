@@ -1,0 +1,11 @@
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\bin\Release\net8.0\ContactManager.Domain.deps.json
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\bin\Release\net8.0\ContactManager.Domain.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\bin\Release\net8.0\ContactManager.Domain.pdb
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.AssemblyInfoInputs.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.AssemblyInfo.cs
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.csproj.CoreCompileInputs.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\refint\ContactManager.Domain.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ContactManager.Domain.pdb
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManager.Domain\obj\Release\net8.0\ref\ContactManager.Domain.dll

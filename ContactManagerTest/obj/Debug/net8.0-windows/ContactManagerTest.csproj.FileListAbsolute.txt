@@ -1,0 +1,17 @@
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\bin\Debug\net8.0-windows\ContactManagerTest.exe
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\bin\Debug\net8.0-windows\ContactManagerTest.deps.json
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\bin\Debug\net8.0-windows\ContactManagerTest.runtimeconfig.json
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\bin\Debug\net8.0-windows\ContactManagerTest.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\bin\Debug\net8.0-windows\ContactManagerTest.pdb
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.Form1.resources
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.csproj.GenerateResource.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.AssemblyInfoInputs.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.AssemblyInfo.cs
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.csproj.CoreCompileInputs.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\refint\ContactManagerTest.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.pdb
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.genruntimeconfig.cache
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ref\ContactManagerTest.dll
+C:\Users\fasam\source\repos\ContactManagerTest\ContactManagerTest\obj\Debug\net8.0-windows\ContactManagerTest.CustomerCardControl.resources
